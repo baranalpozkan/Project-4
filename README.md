@@ -1,2 +1,9 @@
 # Project-4
-Project 4: Reverse &amp; Flatten Functions
+
+## Reverse And Flatten Functions
+
+[Patika](https://patika.dev)
+
+*Baranalp* *Özkan*
+
+
